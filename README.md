@@ -1,6 +1,7 @@
 ## RFID-RC522
 
-Arduino board (Uno, Nano) with RFID-RC522 reader project samples.
-#### An attempt on studying RFID chips data on car's immobilizer systems.   
-
+Arduino board with RFID-RC522 reader.    
+An attempt on studying RFID chips on car's immobilizer systems.      
+\
+\
 <img src="wiring.png"/>
